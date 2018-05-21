@@ -1,0 +1,6 @@
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Factory\bin\Debug\Factory.exe.config
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Factory\bin\Debug\Factory.exe
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Factory\bin\Debug\Factory.pdb
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Factory\obj\Debug\Factory.exe
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Factory\obj\Debug\Factory.pdb

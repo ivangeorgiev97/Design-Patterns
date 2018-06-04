@@ -1,0 +1,7 @@
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Abstract-Factory\bin\Debug\Abstract-Factory.exe.config
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Abstract-Factory\bin\Debug\Abstract-Factory.exe
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Abstract-Factory\bin\Debug\Abstract-Factory.pdb
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Abstract-Factory\obj\Debug\Abstract-Factory.csprojResolveAssemblyReference.cache
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Abstract-Factory\obj\Debug\Abstract-Factory.csproj.CoreCompileInputs.cache
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Abstract-Factory\obj\Debug\Abstract-Factory.exe
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Abstract-Factory\obj\Debug\Abstract-Factory.pdb

@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract-Factory", "Abstrac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{9027F499-BC70-4B04-9ABC-F4DFF38B7C1C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Abstract-Factory-Exercises", "Abstract-Factory-Exercises", "{86520441-0208-4A6C-B4E3-82E4A2B47281}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract-Factory-Gaming", "Abstract-Factory-Gaming\Abstract-Factory-Gaming.csproj", "{6076FEF1-B408-40B8-94DC-8E7DFF8AA721}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,9 +37,16 @@ Global
 		{9027F499-BC70-4B04-9ABC-F4DFF38B7C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9027F499-BC70-4B04-9ABC-F4DFF38B7C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9027F499-BC70-4B04-9ABC-F4DFF38B7C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6076FEF1-B408-40B8-94DC-8E7DFF8AA721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6076FEF1-B408-40B8-94DC-8E7DFF8AA721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6076FEF1-B408-40B8-94DC-8E7DFF8AA721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6076FEF1-B408-40B8-94DC-8E7DFF8AA721}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6076FEF1-B408-40B8-94DC-8E7DFF8AA721} = {86520441-0208-4A6C-B4E3-82E4A2B47281}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AE329184-06FF-4368-8E60-A42DA1547088}

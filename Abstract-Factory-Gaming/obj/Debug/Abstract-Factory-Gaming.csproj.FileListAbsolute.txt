@@ -1,0 +1,7 @@
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Abstract-Factory-Gaming\bin\Debug\Abstract-Factory-Gaming.exe.config
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Abstract-Factory-Gaming\bin\Debug\Abstract-Factory-Gaming.exe
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Abstract-Factory-Gaming\bin\Debug\Abstract-Factory-Gaming.pdb
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Abstract-Factory-Gaming\obj\Debug\Abstract-Factory-Gaming.csprojResolveAssemblyReference.cache
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Abstract-Factory-Gaming\obj\Debug\Abstract-Factory-Gaming.csproj.CoreCompileInputs.cache
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Abstract-Factory-Gaming\obj\Debug\Abstract-Factory-Gaming.exe
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Abstract-Factory-Gaming\obj\Debug\Abstract-Factory-Gaming.pdb

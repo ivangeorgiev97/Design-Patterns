@@ -1,0 +1,6 @@
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Factory-Method-TV\bin\Debug\Factory-Method-TV.exe.config
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Factory-Method-TV\bin\Debug\Factory-Method-TV.exe
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Factory-Method-TV\bin\Debug\Factory-Method-TV.pdb
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Factory-Method-TV\obj\Debug\Factory-Method-TV.csproj.CoreCompileInputs.cache
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Factory-Method-TV\obj\Debug\Factory-Method-TV.exe
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Factory-Method-TV\obj\Debug\Factory-Method-TV.pdb

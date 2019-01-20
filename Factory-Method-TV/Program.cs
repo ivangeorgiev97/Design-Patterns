@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace Factory_Method_TV
 {
+
     class FactoryMethodTVs
     {
 
@@ -16,11 +17,11 @@ namespace Factory_Method_TV
 
             foreach (TV tv in tvs)
             {
-                Console.WriteLine(tv.GetType().Name + " features:");
+                Console.WriteLine(tv.GetType().Name + " parts:");
 
-                foreach (TVFeatures tvFeature in tv.TVFeatures)
+                foreach (TVPart tvPart in tv.TVParts)
                 {
-                    Console.WriteLine("- " + tvFeature.GetType().Name);
+                    Console.WriteLine("- " + tvPart.GetType().Name);
                 }
 
                 Console.WriteLine("\n");
@@ -33,25 +34,25 @@ namespace Factory_Method_TV
 
 
     // Product
-    abstract class TVFeatures
+    abstract class TVPart
     {
 
     }
 
     // ConcreteProduct
-    class Screen : TVFeatures
+    class Screen : TVPart
     {
 
     }
 
     // ConcreteProduct
-    class Speakers : TVFeatures
+    class Speakers : TVPart
     {
 
     }
 
     // ConcreteProduct
-    class Internet : TVFeatures
+    class EthernetPort : TVPart
     {
 
     }
@@ -61,16 +62,16 @@ namespace Factory_Method_TV
     abstract class TV
     {
 
-        private List<TVFeatures> tvFeatures = new List<TVFeatures>();
+        private List<TVPart> tvParts = new List<TVPart>();
 
         public TV()
         {
             this.CreateFeaturesList();
         }
 
-        public List<TVFeatures> TVFeatures
+        public List<TVPart> TVParts
         {
-            get { return tvFeatures; }
+            get { return tvParts; }
         }
 
         // Factory method- освен да се използва по този начин,
@@ -87,9 +88,9 @@ namespace Factory_Method_TV
         // Implementation of Factory method
         public override void CreateFeaturesList()
         {
-            TVFeatures.Add(new Screen());
+            TVParts.Add(new Screen());
 
-            TVFeatures.Add(new Speakers());
+            TVParts.Add(new Speakers());
         }
 
     }
@@ -101,12 +102,13 @@ namespace Factory_Method_TV
         // Implementation of Factory method
         public override void CreateFeaturesList()
         {
-            TVFeatures.Add(new Screen());
+            TVParts.Add(new Screen());
 
-            TVFeatures.Add(new Speakers());
+            TVParts.Add(new Speakers());
 
-            TVFeatures.Add(new Internet());
+            TVParts.Add(new EthernetPort());
         }
 
     }
+
 }

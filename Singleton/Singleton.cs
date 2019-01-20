@@ -8,20 +8,21 @@ namespace Singleton
 {
     public class Singleton
     {
-        private static Singleton myInstance; 
+        private static Singleton onlyInstance; 
 
+        // Конструкторът може да бъде и protected
         private Singleton() { }
 
-        public static Singleton Instance
+        public static Singleton OnlyInstance
         {
             get
             {
-                if (myInstance == null)
+                if (onlyInstance == null)
                 {
-                    myInstance = new Singleton();
+                    onlyInstance = new Singleton();
                 }
 
-                return myInstance;
+                return onlyInstance;
             }
         }
     }

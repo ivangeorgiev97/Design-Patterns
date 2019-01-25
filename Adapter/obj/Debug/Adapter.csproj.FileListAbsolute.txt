@@ -1,0 +1,7 @@
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Adapter\bin\Debug\Adapter.exe.config
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Adapter\bin\Debug\Adapter.exe
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Adapter\bin\Debug\Adapter.pdb
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Adapter\obj\Debug\Adapter.exe
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Adapter\obj\Debug\Adapter.pdb

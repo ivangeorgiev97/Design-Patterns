@@ -21,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Factory-Method-Exercises", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory-Method-TV", "Factory-Method-TV\Factory-Method-TV.csproj", "{976760C6-F264-4173-9356-0B7C352170EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{572A44D0-CA61-4A46-85D5-9EB74DBE5080}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{976760C6-F264-4173-9356-0B7C352170EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{976760C6-F264-4173-9356-0B7C352170EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{976760C6-F264-4173-9356-0B7C352170EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{572A44D0-CA61-4A46-85D5-9EB74DBE5080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{572A44D0-CA61-4A46-85D5-9EB74DBE5080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{572A44D0-CA61-4A46-85D5-9EB74DBE5080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{572A44D0-CA61-4A46-85D5-9EB74DBE5080}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

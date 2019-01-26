@@ -1,0 +1,7 @@
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Observer\bin\Debug\Observer.exe.config
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Observer\bin\Debug\Observer.exe
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Observer\bin\Debug\Observer.pdb
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Observer\obj\Debug\Observer.exe
+D:\Dev WORLD\C#\Advanced\Design-Patterns\Observer\obj\Debug\Observer.pdb
